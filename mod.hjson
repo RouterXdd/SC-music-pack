@@ -3,3 +3,4 @@ name: sc-music
 description: Change mindustry music to SC
 author: RouterXdd
 minGameVersion: 136
+hidden:true
